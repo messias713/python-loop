@@ -1,0 +1,10 @@
+#Criar loop infinito python!
+
+import time
+
+while True:
+    print("Loop infinito ୨⎯ 🌹 amor 🌹 ⎯୧")
+    time.sleep(1) # Espera por 1 segundo antes de continuar para não sobrecarregar o sistema
+    
+    
+    
